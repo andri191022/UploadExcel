@@ -1,0 +1,5 @@
+C:\Users\andri\source\repos\UI.ReadExcel\Dta.ReadExcel\bin\Debug\Dta.ReadExcel.dll
+C:\Users\andri\source\repos\UI.ReadExcel\Dta.ReadExcel\bin\Debug\Dta.ReadExcel.pdb
+C:\Users\andri\source\repos\UI.ReadExcel\Dta.ReadExcel\obj\Debug\Dta.ReadExcel.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\UI.ReadExcel\Dta.ReadExcel\obj\Debug\Dta.ReadExcel.dll
+C:\Users\andri\source\repos\UI.ReadExcel\Dta.ReadExcel\obj\Debug\Dta.ReadExcel.pdb
